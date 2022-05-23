@@ -7,10 +7,11 @@ To design an end-to-end data pipeline and analyze the data for the organization 
 
 ## Why it is a part of Bigdata  
 Since the data volume is high and analyzing the data by using traditional approaches is time consuming .
-<img width="2479" alt="image" src="https://user-images.githubusercontent.com/82323842/169744923-9356abf0-ceeb-4c4c-905b-bc1eec9c5ce1.png">
+
 
 ## Project Description:
 In this project, you are required to create end to end data pipeline and analyzing the data.
+
 ## Technology Stack:
 you are required to work on below technology Stack. - MySQL (to create database)
 - Linux Commands
