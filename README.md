@@ -1,5 +1,5 @@
 # Employee Attrition Analysis for a company
-## Problem Statement 
+## Summary
 The company is looking how its data can be transformed to get some actionable insights and rights set of data engineering technology stack. The database contains a huge volume of employees data  with both employee engagement survey results and exit data. This provides a massive, globally diverse, and statistically relevant dataset for conducting research specific to attrition.
 
 ## Objective 
