@@ -25,6 +25,9 @@ you are required to work on below technology Stack. - MySQL (to create database)
 ## Data Description: Please find the details of all the tables
 a. Titles (titles.csv):
 title_id – Unique id of type of employee (designation id) – Character – Not Null Title – Designation – Character – Not Null
+
+
+
 b. Employees (employees.csv):
 emp_no – Employee Id – Integer – Not Null
 emp_titles_id – designation id – Not Null
