@@ -45,7 +45,9 @@ sex – Gender – Character – Not Null
 
 hire_date – Employee Hire date –Date Time -Not Null
 
-no_of_projects – Number of projects worked on – Integer – Not Null Last_performance_rating – Last year performance rating – Character – Not Null left – 
+no_of_projects – Number of projects worked on – Integer – Not Null 
+
+Last_performance_rating – Last year performance rating – Character – Not Null left – 
 
 Employee left the organization – Boolean – Not Null
 
