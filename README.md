@@ -52,3 +52,19 @@ Last_performance_rating – Last year performance rating – Character – Not N
 Employee left the organization – Boolean – Not Null
 
 Last_date - Last date of employment (Exit Date) – Date Time
+
+## Steps 
+
+# Step 1 
+Transfer the Capstone Inputs file to the Client's home directory.
+# Step 2
+
+# Step 3
+
+## MYSQL
+## SQUOOP
+## HDFS
+## HIVE
+## IMPALA
+## Spark
+
