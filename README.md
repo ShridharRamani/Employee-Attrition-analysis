@@ -20,3 +20,18 @@ you are required to work on below technology Stack. - MySQL (to create database)
 - Impala (to perform the EDA)
 - SparkSQL (to perform the EDA)
 - SparkML (to perform model building)
+ Data Description
+
+## Data Description: Please find the details of all the tables
+a. Titles (titles.csv):
+title_id – Unique id of type of employee (designation id) – Character – Not Null Title – Designation – Character – Not Null
+b. Employees (employees.csv):
+emp_no – Employee Id – Integer – Not Null
+emp_titles_id – designation id – Not Null
+birth_date – Date of Birth – Date Time – Not Null
+first_name – First Name – Character – Not Null
+last_name – Last Name – Character – Not Null
+sex – Gender – Character – Not Null
+hire_date – Employee Hire date –Date Time -Not Null
+no_of_projects – Number of projects worked on – Integer – Not Null Last_performance_rating – Last year performance rating – Character – Not Null left – Employee left the organization – Boolean – Not Null
+Last_date - Last date of employment (Exit Date) – Date Time
